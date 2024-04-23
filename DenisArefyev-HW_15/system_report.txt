@@ -1,0 +1,11 @@
+System Report
+OS Version:  Amazon Linux 2
+Current Date:  04/15/24
+Current Time:  15:58:40
+Uptime Info:  up 4 weeks, 3 days, 12 hours, 20 minutes
+System load:  0.00, 0.00, 0.00
+Disk Space:  17%
+Top Processes:  PID PPID CMD %MEM %CPU 1782 1 /usr/lib/systemd/systemd-jo 2.8 0.0 3106 1 /usr/sbin/rsyslogd -n 1.5 0.0 17679 1 /usr/bin/amazon-ssm-agent 1.2 0.0 27650 3109 sshd: ec2-user [priv] 0.8 0.0
+Process Count:  95
+User Count:  1
+

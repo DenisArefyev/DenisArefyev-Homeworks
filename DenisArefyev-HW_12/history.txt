@@ -1,0 +1,16 @@
+  821  cat README.md
+  822  date >> README.md
+  823  cat README.md
+  824  nano README.md
+  825  git add README.md
+  826  git status
+  827  git add .gitignore
+  828  git status
+  829  git log
+  830  git commit -m "Committing changes to feature branch"
+  831  git push origin feature
+  832  git commit --amend -m "Committing changes to feature branch (amend)\n\ngit commit --amend -m "Committing changes to feature branch (amend)"
+  833  git commit --amend -m "Committing changes to feature branch (amend)"
+  834  git log --oneline --all --graph --decorate
+  835  git checkout main
+  836  git merge feature
